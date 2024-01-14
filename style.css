@@ -1,0 +1,28 @@
+.mail{width: 20px;float: left;margin-right: 10px; }
+.phone{width: 20px;float: left;margin-right: 10px;}
+.location{width: 15px;float: left;margin-right: 10px;}
+.left-col{float:left; width: 50%}
+.right-col{float: right; width: 50%}
+.header{border: solid gainsboro ;background: gainsboro }
+.name{color: dimgrey;padding-left: 40px;margin-bottom: -10px;letter-spacing: 2px }
+.hospitality{line-height: .01;padding-left: 60px;color: dimgrey;letter-spacing: 2px}
+body{background: white}
+.profile{border-left: solid black 1px; border-bottom: solid black 1px;}
+.skills{border-bottom: solid black 1px;border-top: solid black 1px; background-color: gainsboro;
+background-size:;}
+h2{padding-left:3px;font-family:sans-serif;}
+h3{padding-left:3px;font-family:sans-serif;}
+p{padding-left:3px}
+.experience{background-color: gainsboro;border-top: solid black 1px}
+li{color:dimgrey}
+.skills{color:dimgrey;letter-spacing: 2px}
+.experience-color{color:dimgrey;letter-spacing: 2px}
+.bar-color{color:dimgrey}
+.boiler-room-color{color:dimgrey}
+.bartender-color{color:dimgrey}
+.red-lobster-color{color:dimgrey}
+.line-cook-color{color:dimgrey}
+.oxbow-color{color:dimgrey}
+.education{letter-spacing: 2px}
+.profile3{letter-spacing: 2px}
+h1{font-family:sans-serif;}
